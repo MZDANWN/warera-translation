@@ -1630,7 +1630,7 @@ msgstr "{itemCount, plural, one {عنصر معروض للبيع} two {عنصرا
 
 #: src/components/_user/user/UserBadges.tsx:318
 msgid "{label} of <0/>"
-msgstr ""
+msgstr "{label} من <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:538
 msgid "{lead} and others are waiting for your decision."
@@ -1726,7 +1726,7 @@ msgstr "تمت اتخاذ القرار بواسطة {names} أثناء غياب�
 
 #: src/components/_economy/strategicResource/StrategicResourceEffect.tsx:184
 msgid "{needed}+ copies"
-msgstr ""
+msgstr "عدد النسخ: {needed}+"
 
 #: src/components/_user/user/Level.tsx:134
 msgid "{nextLevelSkillPoints} Skill Points"
@@ -1798,7 +1798,7 @@ msgstr "{roundsToWin} جولة للفوز "
 
 #: src/components/_user/user/SkillUpgrade.tsx:303
 msgid "{savedPrestigeCount} saved, locked until reset"
-msgstr ""
+msgstr "{savedPrestigeCount} محفوظة، ومقفلة حتى إعادة الضبط"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:53
@@ -1807,7 +1807,7 @@ msgstr "{score}/{0} جولات"
 
 #: src/components/_military/muLeague/MuLeagueRow.tsx:114
 msgid "{seats} members seated on Monday"
-msgstr ""
+msgstr "تم إسناد المقاعد إلى {seats} عضوًا يوم الاثنين"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:244
 msgid "{selectedCount, plural, one {Dismantle # item for} other {Dismantle # items for}}"
@@ -1827,7 +1827,7 @@ msgstr "{toolsReturned, plural, one {أداة واحدة لا تتوافق مع 
 
 #: src/components/_political/government/CongressSeats.tsx:75
 msgid "{total} seats"
-msgstr ""
+msgstr "{total} مقعدًا"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:324
 #: src/components/_economy/employee/WorkforceSummary.tsx:490
@@ -1856,15 +1856,15 @@ msgstr "متبقي {value} من إمكانيات التدريب"
 
 #: src/components/_military/mu/muType.frontConfig.tsx:114
 msgid "{value}% alliance bonus"
-msgstr ""
+msgstr "مكافأة تحالف بنسبة {value}%"
 
 #: src/components/_military/mu/muType.frontConfig.tsx:122
 msgid "{value}% fighting for non-allied countries"
-msgstr ""
+msgstr "{value}% يقاتلون لصالح الدول غير المتحالفة"
 
 #: src/components/_military/mu/muType.frontConfig.tsx:106
 msgid "{value}% patriotic bonus"
-msgstr ""
+msgstr "مكافأة وطنية بنسبة {value}%"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:135
 #: src/components/_economy/employee/RecruitModal.tsx:267
@@ -2008,7 +2008,7 @@ msgstr "/س كحد أقصى"
 #. placeholder {0}: LUCK_CHECK.luckPerPoint
 #: src/components/_economy/employee/employeeStats.tsx:307
 msgid "+{0}% on other checks"
-msgstr ""
+msgstr "+{0}% في الاختبارات الأخرى"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:208
 msgid "+{hiddenBattles} more battles"
@@ -2016,7 +2016,7 @@ msgstr "+{hiddenBattles} معارك اكثر"
 
 #: src/components/_military/mu/muType.frontConfig.tsx:136
 msgid "+{percent}% for the side that hired it"
-msgstr ""
+msgstr "+{percent}% للطرف الذي استأجره"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:192
 msgid "+{perPoint}% per point above {statPivot}, -{perPoint}% per point under."
@@ -2203,7 +2203,7 @@ msgstr "<0/> أهداك حزمة المظهر \"{skinPackTitle}\"!"
 #. placeholder {0}: muTypesConfig.unitTypeLockDays
 #: src/components/_political/law/law.frontConfig.tsx:707
 msgid "<0/> goes back to Paramilitary and stays Paramilitary for at least {0} days."
-msgstr ""
+msgstr "<0/> يعود إلى القوات شبه العسكرية ويبقى ضمنها لمدة لا تقل عن {0} يومًا."
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:229
 msgid "<0/> got fee back"
@@ -2293,7 +2293,7 @@ msgstr "⁧حوّل ⁨<0/>⁩ <1>⁦{0}⁩</1> إلى ⁨<2/>⁩⁩"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:254
 msgid "<0/> holds regions of <1/>"
-msgstr ""
+msgstr "<0/> يسيطر على مناطق <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1113
 msgid "<0/> is attacking <1/> in <2/>"
@@ -2317,7 +2317,7 @@ msgstr "⁧⁨<0/>⁩ في حالة إفلاس. سيتم إلغاء كافة ا�
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1387
 msgid "<0/> is no longer a State Army of <1/>. It stays Paramilitary for at least 7 days."
-msgstr ""
+msgstr "لم يعد <0/> جيشًا تابعًا لـ <1/>، وسيبقى ضمن القوات شبه العسكرية لمدة 7 أيام على الأقل."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:452
 msgid "<0/> is now the manager of <1/>"
@@ -2377,7 +2377,7 @@ msgstr "أعجب <0/> برسالتك في <1/><2/>"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:232
 msgid "<0/> lost {regionName}"
-msgstr ""
+msgstr "<0/> خسر {regionName}"
 
 #: src/components/_political/event/event.frontConfig.tsx:247
 msgid "<0/> made peace with <1/>"
@@ -2393,11 +2393,11 @@ msgstr "أشار إليك <0/> في <1/><2/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1373
 msgid "<0/> offers to sponsor <1/> as a State Army. Answer it from the unit settings."
-msgstr ""
+msgstr "<0/> يعرض رعاية <1/> ليصبح جيشًا تابعًا للدولة. يمكنك الرد على العرض من إعدادات الوحدة."
 
 #: src/components/_military/mu/MuTypeSettings.tsx:224
 msgid "<0/> offers to sponsor your unit as a State Army."
-msgstr ""
+msgstr "يعرض <0/> رعاية وحدتك لتصبح جيشًا تابعًا للدولة."
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:223
 msgid "<0/> paid fee"
@@ -2406,7 +2406,7 @@ msgstr "دفع <0/> الرسوم"
 #: src/components/_user/milestone/MilestoneItem.tsx:150
 #: src/components/_user/milestone/MilestoneItem.tsx:295
 msgid "<0/> players"
-msgstr ""
+msgstr "عدد اللاعبين: <0/>"
 
 #: src/components/_military/war/WarItem.tsx:115
 msgid "<0/> Priority ends in <1/>"
@@ -2664,7 +2664,7 @@ msgstr "<0>{0}</0> لكل جنسية أجنبية بين الزملاء، بحد
 #. placeholder {1}: badgeStat.percent
 #: src/components/_user/badgeCollection/Badge.tsx:91
 msgid "<0>{0}</0> players ({1}%)"
-msgstr ""
+msgstr "<0>{0}</0> لاعبًا ({1}%)"
 
 #. placeholder {0}: 1
 #: src/components/_user/user/UserSkills.tsx:216
@@ -3294,7 +3294,7 @@ msgstr "30 يومًا أو أكثر في الشركة. احتمال مضاعف �
 
 #: src/components/_other/rankingSnapshot/RankingHistoryContent.tsx:227
 msgid "30d"
-msgstr ""
+msgstr "30 يومًا"
 
 #: src/components/_common/GameRules.tsx:136
 msgid "4. Bug Exploits"
@@ -3346,11 +3346,11 @@ msgstr "7. سلوك المجتمع"
 
 #: src/components/_other/rankingSnapshot/RankingHistoryContent.tsx:226
 msgid "7d"
-msgstr ""
+msgstr "7 أيام"
 
 #: src/components/_other/rankingSnapshot/RankingHistoryContent.tsx:228
 msgid "90d"
-msgstr ""
+msgstr "90 يومًا"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:342
 msgid "A {climber} or a {primaDonna}, after 7 days in the company."
@@ -3682,7 +3682,7 @@ msgstr "يوم بطيء، لكن الفريق تعلم شيئًا عن المه�
 
 #: src/components/_military/mu/MuSettings.tsx:84
 msgid "A State Army can’t change nationality. Abandon the sponsorship first."
-msgstr ""
+msgstr "لا يمكن للجيش التابع للدولة تغيير جنسيته. أنهِ الرعاية أولًا."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:962
 msgid "A strange mood"
@@ -3690,11 +3690,11 @@ msgstr "مزاج غريب"
 
 #: src/pages/region/[regionId]/index.tsx:55
 msgid "A strategic resource has been found in this region. It gives a bonus to the whole alliance of the country holding it, or to that country alone without an alliance."
-msgstr ""
+msgstr "تم العثور على مورد استراتيجي في هذه المنطقة. يمنح مكافأة للتحالف بأكمله الذي تنتمي إليه الدولة المسيطرة عليه، أو للدولة نفسها فقط إذا لم تكن ضمن أي تحالف."
 
 #: src/pages/region/[regionId]/index.tsx:56
 msgid "A strategic resource has been found in this region. The country holding it earns money every day."
-msgstr ""
+msgstr "تم العثور على مورد استراتيجي في هذه المنطقة. تجني الدولة التي تسيطر عليه أموالًا كل يوم."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:635
 msgid "A stray cat"
@@ -4257,7 +4257,7 @@ msgstr "المرساة"
 
 #: src/components/_common/OverflowCount.tsx:82
 msgid "And {rest} more"
-msgstr ""
+msgstr "و{rest} عناصر أخرى"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:113
 msgid "Animated <0>GIF</0> as avatar"
@@ -4672,7 +4672,7 @@ msgstr "تمت إزالة الصورة الرمزية"
 
 #: src/components/_political/country/CountryHeader.tsx:300
 msgid "Average"
-msgstr ""
+msgstr "المتوسط"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:83
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:186
