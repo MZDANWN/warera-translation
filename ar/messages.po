@@ -13793,7 +13793,7 @@ msgstr "الإنتاج ممتلئ"
 
 #: src/components/_economy/company/CompanyTags.tsx:173
 msgid "Production Points it can hold"
-msgstr ""
+msgstr "سعة نقاط الإنتاج"
 
 #: src/components/_economy/employee/employeeStats.tsx:267
 msgid "Production points made per day at the current rate, bonuses included."
@@ -14094,7 +14094,7 @@ msgstr "بطاقة تدريب نادرة أو أندر"
 
 #: src/components/_economy/employee/TrainingHistory.tsx:201
 msgid "Rarity"
-msgstr ""
+msgstr "الندرة"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 #: src/components/_other/upgrade/Upgrade.tsx:282
@@ -14103,7 +14103,7 @@ msgstr "المعدل"
 
 #: src/components/_user/modals/RateAppModal.tsx:72
 msgid "Rate on Google Play"
-msgstr ""
+msgstr "قيّم التطبيق على Google Play"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:146
 msgid "Rate per 1K damage"
@@ -14111,7 +14111,7 @@ msgstr "المعدل لكل 1000 ضرر"
 
 #: src/components/_user/modals/RateAppModal.tsx:48
 msgid "Rate War Era"
-msgstr ""
+msgstr "قيّم لعبة War Era"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2482
 msgid "Rationing"
@@ -14241,7 +14241,7 @@ msgstr ""
 
 #: src/components/_user/user/Level.tsx:113
 msgid "Ready to upgrade"
-msgstr ""
+msgstr "جاهز للترقية"
 
 #: src/utils/translations.tsx:249
 msgid "Reaper's Crescent"
@@ -14436,7 +14436,7 @@ msgstr "الدول المسجلة"
 
 #: src/components/_political/party/PartyCongressList.tsx:77
 msgid "Registered for the congress election"
-msgstr ""
+msgstr "مسجّل للمشاركة في انتخابات المؤتمر"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:65
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:120
@@ -14605,7 +14605,7 @@ msgstr "إعادة تسمية"
 #. placeholder {0}: formProps.defaultTitle
 #: src/components/_political/government/Government.tsx:352
 msgid "Rename {0}"
-msgstr ""
+msgstr "إعادة تسمية {0}"
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:18
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:120
@@ -14754,7 +14754,7 @@ msgstr "إعادة ضبط مهاراتك"
 
 #: src/components/_user/user/SkillUpgrade.tsx:336
 msgid "Reset your skills to reassign"
-msgstr ""
+msgstr "أعد ضبط مهاراتك لإعادة توزيعها"
 
 #: src/pages/region/[regionId]/index.tsx:92
 msgid "Reshuffle in"
@@ -14808,7 +14808,7 @@ msgstr "الموارد"
 #: src/components/_political/alliance/AllianceTooltip.tsx:158
 #: src/components/_political/country/CountryTooltip.tsx:203
 msgid "Resource bonuses"
-msgstr ""
+msgstr "مكافآت الموارد"
 
 #: src/components/_political/alliance/AllianceTooltip.tsx:143
 #: src/components/_political/country/CountryTooltip.tsx:187
@@ -14874,7 +14874,7 @@ msgstr ""
 
 #: src/components/_political/stateArmy/StateArmyList.tsx:222
 msgid "Revoke lock"
-msgstr ""
+msgstr "رفع القفل"
 
 #: src/components/_political/law/law.frontConfig.tsx:693
 #: src/components/_political/law/lawNames.tsx:45
